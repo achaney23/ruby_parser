@@ -1,4 +1,4 @@
-#!/usr/local/rvm/rubies/ruby-2.1.5/bin/ruby ruby -w
+#!/usr/bin/env ruby
 
 def convert_to_boolean value
 	change_value = false
